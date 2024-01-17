@@ -1,7 +1,7 @@
 #include <Arduino.h>
 
 // put function declarations here:
-#define ANALOG_PIN D1
+#define ANALOG_PIN A1
 
 void setup() {
   Serial.begin(115200);  // Start serial communication at 115200 baud
